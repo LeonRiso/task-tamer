@@ -1,4 +1,6 @@
 # task-tamer
+Simple Task manager/ todo list application done in Vue to learn the basics and fundamentals of Vue framework
+
 
 ## Project setup
 ```
